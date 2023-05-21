@@ -1,0 +1,82 @@
+{
+  "af_server": "NZSTEEL",
+  "af_database": "Monitoring",
+  "polling_rate_ms": 10000,
+  "logs_path": "c:/Program Files/MeshedToPI/Logs/",
+  "af_node": "IOT",
+  "alert_email": "rebecca.lloyd@bluescopesteel.com",
+  "destination": 	"54.79.254.17",
+  "attributeList": [
+    "humidity",
+    "TempHumi.SenVal",
+    "temperature",
+    "externalTemperature",
+    "SVPB",
+    "SVSB",
+    "thermistor1",
+    "pulseaccumulated1",
+    "A1N1",
+    "pressure",
+    "pressure_raw",
+    "vdd",
+    "analog1",
+    "analog2",
+    "latitudeDeg",
+    "longitudeDeg",
+    "speedKmph",
+    "headingDeg",
+    "batV",
+    "pulseAbs",
+    "pulseAbs2",
+    "distance",
+    "Current",
+    "Voltage",
+    "digital",
+    "digital2",
+    "analog1",
+    "analog2",
+    "accMotion",
+    "waterleak",
+    "x",
+    "y",
+    "x",
+    "current1",
+    "current2",
+    "current3",
+    "multiplier1",
+    "multiplier2",
+    "multiplier3",
+    "voltage",
+    "packet_type",
+    "CO",
+    "battery",
+    "error",
+    "level",
+    "level_raw",
+    "temperature_head",
+    "temperature_target"
+  ],
+  "apps": [
+    {
+      "user": "elsys-ers@nzsteel",
+      "password": "NNSXS.HEFBC44IK6H3P62AADYZOMXOW6SMYBU23GCOSVA.HNHKLNT56WRY6FBIYL2GOHE2MK7Y2UUI4GFNKITSQ2KN2DNPGIZA"
+    },
+    {
+      "user": "wise2410@nzsteel",
+      "password": "NNSXS.GE2HZDHF4VBMAW5F6KCFCLX2N2DWY2OREE5OJ5Y.UWYKWNMCDKIRNWAMC7TGC34RYNZHCV5T6IBLHGN7J6Z5LZO2VZCQ"
+    },
+    {
+      "user": "ellenex@nzsteel",
+      "password": "NNSXS.E2GTBXAE2ZUB6PCZ3MJOOY53YVCSVYZMWYLDX6I.BZXGCQA2BUSOBS4HFJOMQUGQBOYM4CQSN2KGMIPBKTZKHJXT5SOQ"
+    },
+    {
+      "user": "elsys-elt2@nzsteel",
+      "password": "NNSXS.EL6TAY6PVLEBNGDNXUDY3WEBMHIKJJBSZYNWRDY.YD3P2MNPYUXPY7A666XS3VIZOUXEFXNGO7G5NSDA3F5Q23LOCD4Q"
+    },
+    {
+      "user": "netvox@nzsteel",
+      "password": "NNSXS.SOXPS7MK3GQITZMOXFYY2C4MAFOPW6N2IRZIVHI.N2QWA7YQVE272YXVPFA66T33NJ5LEK2Z7VBGRD7K4UGBJBPNWG7Q"
+    }
+
+  ]
+}

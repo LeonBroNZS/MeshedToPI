@@ -1,0 +1,76 @@
+{
+  "af_server": "osipi.data.wol.bluescopesteel.net",
+  "af_database": "Monitoring",
+  "polling_rate_ms": 10000,
+  "logs_path": "c:/Logs/",
+  "af_node": "IOTs",
+  "alert_email": "reece.wilson@bluescopesteel.com",
+  "destination": "10.87.128.241",
+  "attributeList": [
+    "humidity",
+    "TempHumi.SenVal",
+    "temperature",
+    "externalTemperature",
+    "SVPB",
+    "SVSB",
+    "thermistor1",
+    "pulseaccumulated1",
+    "A1N1",
+    "pressure",
+    "pressure_raw",
+    "vdd",
+    "analog1",
+    "analog2",
+    "latitudeDeg",
+    "longitudeDeg",
+    "speedKmph",
+    "headingDeg",
+    "batV",
+    "pulseAbs",
+    "pulseAbs2",
+    "distance",
+    "Current",
+    "Voltage",
+    "digital",
+    "digital2",
+    "analog1",
+    "analog2",
+    "accMotion",
+    "waterleak",
+    "x",
+    "y",
+    "x",
+    "current1",
+    "current2",
+    "current3",
+    "multiplier1",
+    "multiplier2",
+    "multiplier3",
+    "voltage",
+    "packet_type",
+    "CO",
+    "battery"
+  ],
+  "apps": [
+    {
+      "user": "pkwatermeters@bluescope",
+      "password": "NNSXS.ZWAKFCINJWQCOQ5XFRKXOSC22ZDUO6XERRZQWJQ.XGHLOIQWVWTRG3N5ZJTZHEOAFXUF4BGQ7I4B26OPNLGFYQJCKWNQ"
+    },
+    {
+      "user": "elsys-elt2@bluescope",
+      "password": "NNSXS.F36CQV3WYGXTV7IOXZMM4AFMGVXZUOR6C4RJQJI.X4NU4SEDPS3OWCM3RUMM4G2DR57XGPG36ZU7XXZVD3R5EB7Y5JCQ"
+    },
+    {
+      "user": "wp-wise@bluescope",
+      "password": "NNSXS.NN4ZYFLJNKXEVSYPUZACKJZUCMXE77SCHW5ICVY.K25TSLNQV47IZ46ASQHPL336XQVPY2PKJFAHWPPMEKYWHDROHIYQ"
+    },
+    {
+      "user": "hvmonitoring@bluescope",
+      "password": "NNSXS.IHMZUY2BNBBEM2SLZEHU3HO43XSYSMXORWB3YXQ.RQIM742BFBI3J4VHB63JZ6E6EE6OQHHUXXOZDLJIGW4QH3YYOYNA"
+    },
+    {
+      "user": "sh-mcl-wise@bluescope",
+      "password": "NNSXS.L25RZ47JONRJGGXWH6LHCW4J7KEPM7HWAT3MUEQ.W5Z5VMWVGNRRRI7WM6U7BDOWCCKQUMFTNDRMQMWLG36OEYMA2C5A"
+    }
+  ]
+}
